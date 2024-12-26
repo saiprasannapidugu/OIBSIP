@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #8e2b53;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 2rem;
+    text-align: center;
+}
+
+#projects .project {
+    margin: 1rem 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
